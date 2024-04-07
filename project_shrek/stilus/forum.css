@@ -1,0 +1,21 @@
+#bejelentkezes{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 5%;
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 40px auto;
+    margin-bottom: 100px;
+    box-sizing: border-box;
+    width: 600px;
+}
+
+.cim {
+    font-size: 220%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    font-weight: bold;
+    color: darkgreen;
+}

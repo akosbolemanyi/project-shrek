@@ -1,0 +1,125 @@
+.grid {
+    display: grid;
+    column-gap: 2%;
+    font-size: 120%;
+    text-align: justify;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+#cim {
+    text-align: center;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: green;
+}
+
+#cim1 {
+    text-align: center;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    font-size: 180%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: green;
+}
+#cim2 {
+    text-align: center;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    font-size: 180%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: green;
+}
+#cim3 {
+    text-align: center;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    font-size: 180%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: green;
+}
+#cim4 {
+    text-align: center;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    font-size: 180%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: green;
+}
+#leiras1 {
+    color: black;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    font-size: 120%;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+#leiras2 {
+    color: black;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    font-size: 120%;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+#leiras3 {
+    color: black;
+    grid-row-start: 4;
+    grid-row-end: 5;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    font-size: 120%;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+#leiras4 {
+    color: black;
+    grid-row-start: 4;
+    grid-row-end: 5;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    font-size: 120%;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.dvd {
+    text-align: center;
+}
+
+#dvd1 {
+    width: 307px;
+}
+
+#dvd2 {
+  width: 302px;  
+}
+
+#dvd3 {
+    width: 300px;
+}
+
+#dvd4 {
+    width: 300px;
+}

@@ -1,0 +1,59 @@
+.leiras {
+    color: black;
+    font-size: 120%;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+}
+
+#video {
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+}
+.cim {
+    font-size: 180%;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    font-weight: bold;
+    color: green;
+}
+
+#shrek_bemutatkozas_1 {
+    width: 400px;
+}
+
+#shrek_origins {
+    width: 400px;
+}
+
+.div {
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    width: 93%;
+}
+
+.kep {
+    /*background-color: yellow;*/
+    width: 31.5%;
+    float: left;
+    margin-right: 0%;
+    margin-top: 0.5%;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.szoveg {
+    /*background-color: red;*/
+    width: 68.5%;
+    height: 280px;
+    float: right;
+    text-align: justify;
+    align-items: right;
+    padding-bottom: 7px;
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+}

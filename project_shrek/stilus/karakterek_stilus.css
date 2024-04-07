@@ -1,0 +1,17 @@
+.leiras {
+    color: black;
+    font-size: 120%;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+}
+.cim {
+    font-size: 180%;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    font-weight: bold;
+    color: green;
+}

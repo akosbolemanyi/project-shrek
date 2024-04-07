@@ -1,0 +1,25 @@
+{
+    "ertekelesek": {
+        "1": {
+            "username": "test",
+            "shrek1": "1",
+            "shrek2": "1",
+            "shrek3": "1",
+            "shrek4": "1"
+        },
+        "2": {
+            "username": "test2",
+            "shrek1": "1",
+            "shrek2": "1",
+            "shrek3": "1",
+            "shrek4": "3"
+        },
+        "3": {
+            "username": "test3",
+            "shrek1": "3",
+            "shrek2": "1",
+            "shrek3": "1",
+            "shrek4": "3"
+        }
+    }
+}

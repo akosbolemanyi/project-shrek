@@ -1,0 +1,56 @@
+#jobb {
+    width: 30%;
+    float: right;
+    margin-right: 0%;
+    margin-top: 0.5%;
+    text-align: center;
+    vertical-align: bottom;
+    
+}
+
+#bal {
+    width: 70%;
+    float: left;
+    text-align: center;
+}
+#alap2{
+    padding-top: 0.1%;
+    width: 100%;
+    margin-bottom: 23%;
+}
+
+#adatok{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 8%;
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 40px auto;
+    margin-bottom: 100px;
+    box-sizing: border-box;
+    width: 400px;
+}
+#adatok2{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 4%;
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 40px auto;
+    margin-bottom: 100px;
+    box-sizing: border-box;
+    width: 800px;
+    margin-top: 47px;
+    height: 300px;
+}
+
+.cim {
+    font-size: 180%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    margin-top: -1rem;
+    font-weight: bold;
+    color: darkgreen;
+}

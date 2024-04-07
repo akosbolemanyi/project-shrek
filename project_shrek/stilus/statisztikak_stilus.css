@@ -1,0 +1,73 @@
+.leiras {
+  color: black;
+   font-size: 120%;
+   text-align: justify;
+   font-family: 'Times New Roman', Times, serif;
+   margin-left: 3.5%;
+   margin-right: 3.5%;
+
+
+}
+.cim {
+   font-size: 180%;
+   text-align: justify;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   color: green;
+   margin-left: 3.5%;
+   margin-right: 3.5%
+   
+}
+table {
+   width: 93%;
+   margin: 0 auto;
+ }
+ th, td {
+   border-radius: 20px;
+   border: 1px solid black;
+   vertical-align: middle;
+   text-align: center;
+   padding: 10px;
+ }
+ th{
+  color: darkgreen;
+  background-color: floralwhite;
+ }
+
+ #green {
+  color: darkgreen;
+  font-weight: bold;
+  background-color: floralwhite;
+ }
+
+ #red {
+  color: red;
+  font-weight: bold;
+ }
+
+ #lightgreen {
+  font-family: 'Times New Roman', Times, serif;
+  color: green;
+  font-size: 110%;
+  font-weight: bold;
+  margin-bottom: 0%;
+ }
+
+ blockquote{
+   margin: 0 auto;
+   margin-bottom: 0.5%;
+   font-size: 120%;
+   text-align: justify;
+   font-style: italic;
+   font-family: 'Times New Roman', Times, serif;
+   margin-left: 3.5%;
+   margin-right: 3.5%;
+ }
+ .filmcimek{
+   margin-left: 3.5%;
+   font-family: 'Times New Roman', Times, serif;
+   color: darkgreen;
+   font-size: 140%;
+   font-weight: bold;
+   margin-bottom: 0%;
+ }

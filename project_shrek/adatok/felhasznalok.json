@@ -1,0 +1,22 @@
+{
+    "users": {
+        "2": {
+            "username": "test",
+            "password": "$2y$10$P9VB5UiF99SKl3Q2NAkD5.1RvGS56SKpa.0RUTEO8J37MKoFg7x6O",
+            "birth_date": "2000-02-01",
+            "email": "test@gmail.com"
+        },
+        "3": {
+            "username": "test2",
+            "password": "$2y$10$yAu8ETZ5aBJRCu2fIdYy4uDafdRrsl3f1pCpSJDT1NaFtztK6p3wO",
+            "birth_date": "2002-01-01",
+            "email": "test2@gmail.com"
+        },
+        "4": {
+            "username": "test3",
+            "password": "$2y$10$2FWVe6PjGa4FytZJUkerVuwW8X3eOCiElU1rb3fTEkq57CdV\/hiSm",
+            "birth_date": "2000-01-01",
+            "email": "test3@gmail.com"
+        }
+    }
+}
