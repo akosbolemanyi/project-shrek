@@ -17,6 +17,12 @@
             "password": "$2y$10$2FWVe6PjGa4FytZJUkerVuwW8X3eOCiElU1rb3fTEkq57CdV\/hiSm",
             "birth_date": "2000-01-01",
             "email": "test3@gmail.com"
+        },
+        "5": {
+            "username": "BUBUVAGYOK",
+            "password": "$2y$10$jPGN34GFNKKWQFxw5vx6SuNW0H5REAltM8eJIli7yiGCvny30Uuv.",
+            "birth_date": "2002-01-08",
+            "email": "bubu@dudu.hu"
         }
     }
 }
